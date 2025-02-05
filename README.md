@@ -126,5 +126,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - amar_c@me.iitr.ac.in
-Project Link: [https://github.com/yourusername/ai-powered-recommendation-system](https://github.com/yourusername/ai-powered-recommendation-system)
+Email - amar_c@me.iitr.ac.in
+
